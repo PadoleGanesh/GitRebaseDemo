@@ -19,5 +19,9 @@ class ViewController: UIViewController {
         print("Ganesh Padole")
     }
 
+    //city name
+    func getCityName() {
+        print("Pune")
+    }
 }
 
