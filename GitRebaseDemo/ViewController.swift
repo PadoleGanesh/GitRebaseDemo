@@ -14,6 +14,10 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
+    //name of author
+    func getName() {
+        print("Ganesh Padole")
+    }
 
 }
 
